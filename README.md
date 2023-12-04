@@ -1,1 +1,1 @@
-# kids_funtional_2
+# kidz-world-functional
